@@ -27,7 +27,7 @@ I'm actively seeking collaborations on projects focused on machine vision and au
 
 ## For fun
 - [Art with AI](https://github.com/hlc-astro/art/)
-- [Hackathon](/link-to-for-fun)
+- [Hackathon:first place winners](https://github.com/boringspace/GivingChain)
 
 
 
