@@ -26,7 +26,7 @@ I'm actively seeking collaborations on projects focused on machine vision and au
 - [Data Science Bootcamp](/link-to-bootcamp-projects)
 
 ## For fun
-- [Art with AI](/art)
+- [Art with AI](https://github.com/hlc-astro/art/)
 - [Hackathon](/link-to-for-fun)
 
 
