@@ -20,11 +20,14 @@ I bring proficiency in a range of techniques and methodologies including:
 ## Collaboration
 I'm actively seeking collaborations on projects focused on machine vision and autonomous control of hardware, particularly in remote vehicles like flight vehicles on Earth or within the context of space exploration.
 
-## Projects
-- [Data Science Bootcamp Projects](/link-to-bootcamp-projects)
-- [Data Analysis](/link-to-data-analysis)
+## Project examples
 - [Instrumentation](/link-to-instrumentation)
-- [For Fun](/link-to-for-fun)
+- [Scientific Data Analysis](/link-to-data-analysis)
+- [Data Science Bootcamp](/link-to-bootcamp-projects)
+
+## For fun
+- [Art with AI](/link-to-for-fun)
+- [Hackathon](/link-to-for-fun)
 
 
 
