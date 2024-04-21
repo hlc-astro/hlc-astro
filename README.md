@@ -1,7 +1,7 @@
 # Welcome to Holly Larson Capelo's Repository
 
 ## About Me
-I'm Holly Larson Capelo, an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of exploration and discovery.
+I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of exploration and discovery.
 
 ## Expertise
 I bring proficiency in a range of techniques and methodologies including:
@@ -23,7 +23,7 @@ I'm actively seeking collaborations on projects focused on machine vision and au
 ## Project examples
 - [Instrumentation](/link-to-instrumentation)
 - [Scientific Data Analysis](/link-to-data-analysis)
-- [Data Science Bootcamp](/link-to-bootcamp-projects)
+- [Data Science Bootcamp](https://github.com/hlc-astro/data_science_bootcamp)
 
 ## For fun
 - [Art with AI](https://github.com/hlc-astro/art/)
