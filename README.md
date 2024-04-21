@@ -1,10 +1,13 @@
-# You are in the personal repository of Holly Larson Capelo. 
-## I am an astrophysicist currently working on interdisciplinary projects in space science, Solar-system exploration, and fluid dynamics. I am also very involved in the design and testing of apparatus which operate in low-gravity conditions. 
+# Welcome to Holly Larson Capelo's Repository
 
-### I am familiar with the following techniques and methodologies:
-- SCPI (Standard commands for programmable interfaces) protocol
-- TCP-IP programming
-- high-performance parallel computing
+## About Me
+I'm Holly Larson Capelo, an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of exploration and discovery.
+
+## Expertise
+I bring proficiency in a range of techniques and methodologies including:
+- SCPI (Standard Commands for Programmable Interfaces) Protocol
+- TCP/IP Programming
+- High-Performance Parallel Computing
 - Data Science Toolkit (Python, R, SQL)
 - Data Wrangling
 - Statistical Techniques
@@ -12,9 +15,17 @@
 - Data Visualization
 - Natural Language Processing
 - Deep Learning
-- MLops
+- MLOps
 
-## I am looking to collaborate on projects related to machine vision and/or autonomous control of hardware (measurement sensors, data acquisition and transfer, maneuvering) in remote vehicles such as flight vehicles on Earth, or in a space context. 
+## Collaboration
+I'm actively seeking collaborations on projects focused on machine vision and autonomous control of hardware, particularly in remote vehicles like flight vehicles on Earth or within the context of space exploration.
+
+## Projects
+- [Data Science Bootcamp Projects](/link-to-bootcamp-projects)
+- [Data Analysis](/link-to-data-analysis)
+- [Instrumentation](/link-to-instrumentation)
+- [For Fun](/link-to-for-fun)
+
 
 
 
