@@ -22,7 +22,7 @@ I'm actively seeking collaborations on projects focused on machine vision and au
 
 ## Project examples
 - [Instrumentation](https://github.com/hlc-astro/)
-- [Scientific Data Analysis](https://github.com/hlc-astro/)
+- [Scientific Data Analysis](https://github.com/hlc-astro/permeability_scripts)
 - [Data Science Bootcamp](https://github.com/hlc-astro/data_science_bootcamp)
 
 ## For fun
