@@ -1,8 +1,7 @@
 # Welcome to Holly Larson Capelo's Repository
 
 ## About Me
-I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of exploration and discovery.
-
+I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of technology and discovery. 
 ## Expertise
 I bring proficiency in a range of techniques and methodologies including:
 - SCPI (Standard Commands for Programmable Interfaces) Protocol
