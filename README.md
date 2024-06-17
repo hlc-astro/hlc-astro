@@ -21,8 +21,8 @@ I bring proficiency in a range of techniques and methodologies including:
 I'm actively seeking collaborations on projects focused on machine vision and autonomous control of hardware, particularly in remote vehicles like flight vehicles on Earth or within the context of space exploration.
 
 ## Project examples
-- [Instrumentation](/link-to-instrumentation)
-- [Scientific Data Analysis](/link-to-data-analysis)
+- [Instrumentation](https://github.com/hlc-astro/)
+- [Scientific Data Analysis](https://github.com/hlc-astro/)
 - [Data Science Bootcamp](https://github.com/hlc-astro/data_science_bootcamp)
 
 ## For fun
