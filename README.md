@@ -16,7 +16,7 @@ I bring proficiency in a range of techniques and methodologies including:
 - MLOps
 
 ## Project examples
-- [Instrumentation](https://github.com/hlc-astro/TEMPusVoLA)
+- [Scientific Instrumentation](https://github.com/hlc-astro/TEMPusVoLA)
 - [Data Science Bootcamp](https://github.com/hlc-astro/data_science_bootcamp)
 
 ## For fun
