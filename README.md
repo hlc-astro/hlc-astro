@@ -1,7 +1,7 @@
 # Welcome to Holly Larson Capelo's Repository
 
 ## About Me
-I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of technology and discovery. My scientific publications can be found at the [astrophysical data system](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FCapelo%2C%20H%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FCapelo%2C%20H%22)&p_=0&q=H.L.%20Capelo&sort=date%20desc%2C%20bibcode%20desc)
+I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of technology and discovery. My scientific publications can be found at the [astrophysical data system](https://ui.adsabs.harvard.edu/search/filter_author_facet_hier_fq_author=AND&filter_author_facet_hier_fq_author=author_facet_hier%3A%220%2FCapelo%2C%20H%22&fq=%7B!type%3Daqp%20v%3D%24fq_author%7D&fq_author=(author_facet_hier%3A%220%2FCapelo%2C%20H%22)&p_=0&q=H.L.%20Capelo&sort=date%20desc%2C%20bibcode%20desc). 
 ## Technical Expertise
 I bring proficiency in a range of techniques and methodologies including:
 - SCPI (Standard Commands for Programmable Interfaces) Protocol
