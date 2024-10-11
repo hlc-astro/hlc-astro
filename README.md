@@ -2,7 +2,7 @@
 
 ## About Me
 I'm an astrophysicist deeply engaged in interdisciplinary projects spanning space science, solar system exploration, and fluid dynamics. My expertise lies in designing and testing apparatus for low-gravity conditions, pushing the boundaries of technology and discovery. 
-## Expertise
+## Technical Expertise
 I bring proficiency in a range of techniques and methodologies including:
 - SCPI (Standard Commands for Programmable Interfaces) Protocol
 - TCP/IP Programming
@@ -12,12 +12,8 @@ I bring proficiency in a range of techniques and methodologies including:
 - Statistical Techniques
 - Machine Learning
 - Data Visualization
-- Natural Language Processing
 - Deep Learning
 - MLOps
-
-## Collaboration
-I'm actively seeking collaborations on projects focused on machine vision and autonomous control of hardware, particularly in remote vehicles like flight vehicles on Earth or within the context of space exploration.
 
 ## Project examples
 - [Instrumentation](https://github.com/hlc-astro/TEMPusVoLA)
